@@ -1,0 +1,281 @@
+Number,Hex value,Name_EN,Type
+1,10 27,M Cap,Headwear
+2,11 27,Yellow Tee,Top
+3,12 27,Mowzy Tee (Red),Top
+4,13 27,Mint Polo,Top
+5,14 27,Runner's Tank,Top
+6,15 27,Mowzy Sweatshirt,Top
+7,16 27,Brown Baby Tee,Top
+8,17 27,Pink Blouse,Top
+9,18 27,Peach Turtleneck,Top
+10,19 27,Classic Jeans,Bottom
+11,1A 27,Khaki Chinos,Bottom
+12,1B 27,Green Warm-ups,Top & Bottom
+13,1C 27,Beach Sandals,Footwear
+14,1D 27,3-for-1 Sock Pak,Accessory
+15,1E 27,Mowzy,Accessory
+16,1F 27,Backpack,Accessory
+17,20 27,Canvas Tote,Accessory
+18,21 27,Nylon Waist Pack,Accessory
+19,22 27,Stronger Cap,Headwear
+20,23 27,Star Cap,Headwear
+21,24 27,Knit Casquette,Headwear
+22,25 27,Svelte Parka,Top
+23,26 27,Denim Blouse,Top
+24,27 27,Cupid Tee,Top
+25,28 27,Satin Camisole,Top
+26,29 27,Vest-Blouse Combo,Top
+27,2A 27,Leather Shorts,Bottom
+28,2B 27,Skinny Jeans (Black),Bottom
+29,2C 27,Denim Miniskirt,Bottom
+30,2D 27,Plaid Miniskirt,Bottom
+31,2E 27,Knee-high Boots,Footwear
+32,2F 27,Cowboy Boots (Red),Footwear
+33,30 27,Purple Bikini,Accessory
+34,31 27,Black Bikini,Accessory
+35,32 27,Studded Belt,Accessory
+36,33 27,D+B Ring,Accessory
+37,34 27,Biker Jacket,Top
+38,35 27,Patchy Biker Jacket,Top
+39,36 27,Cotton Biker Vest,Top
+40,37 27,Tiger Biker Vest,Top
+41,38 27,Fitted Coat,Top
+42,39 27,Tartan Coat,Top
+43,3A 27,Pink Gauze Shirt,Top
+44,3B 27,Grey Gauze Shirt,Top
+45,3C 27,Black Raglan Tee,Top
+46,3D 27,Blue Raglan Tee,Top
+47,3E 27,Bondage Pants (Black),Bottom
+48,3F 27,Skirt Bondage Combo,Bottom
+49,40 27,Bondage Half-pants,Bottom
+50,41 27,Work Boots,Footwear
+51,42 27,Purple Sneaks,Footwear
+52,43 27,Custom Sneaks,Footwear
+53,44 27,White Rubbersoles,Footwear
+54,45 27,Double-spiked Cuff,Accessory
+55,46 27,Spiked Choker,Accessory
+56,47 27,Red Mohawk Set,Accessory
+57,48 27,Gold Padlock Necklace,Accessory
+58,49 27,Custom Waist Pack,Accessory
+59,4A 27,Tiger Waist Pack,Accessory
+60,4B 27,Lace Bonnet,Headwear
+61,4C 27,Ribbon Bonnet,Headwear
+62,4D 27,Ribbon Mini-hat,Headwear
+63,4E 27,Mini-crown,Headwear
+64,4F 27,Goth Bondage Coat,Top
+65,50 27,Asymmetric Jersey,Top
+66,51 27,Spiderweb Jersey,Top
+67,52 27,Bunny Parka,Top
+68,53 27,Shirt & Arm Warmers,Top
+69,54 27,Bandage Pants,Bottom
+70,55 27,Red Two-tier Skirt,Bottom
+71,56 27,Double-breasted Suit,Top & Bottom
+72,57 27,Lace-up Dress,Top & Bottom
+73,58 27,Ribbon-laced Dress,Top & Bottom
+74,59 27,Vampire Dress,Top & Bottom
+75,5A 27,Ribbon Shoes,Footwear
+76,5B 27,Platform Shoes,Footwear
+77,5C 27,Cape,Accessory
+78,5D 27,Frilly Parasol,Accessory
+79,5E 27,Blond Wig,Accessory
+80,5F 27,M'sieur Lapin,Accessory
+81,60 27,White Dragon,Top
+82,61 27,Light and Shadow,Top
+83,62 27,Yin Blazer,Top
+84,63 27,Midnight Thoughts,Top
+85,64 27,Plum Blossom,Top
+86,65 27,Vernal Equinox,Top
+87,66 27,Autumn Dragon,Top
+88,67 27,Sun Emperor,Top & Bottom
+89,68 27,Dragon Lady,Top & Bottom
+90,69 27,"A Flash, A Spark",Footwear
+91,6A 27,"One Man, No Equals",Footwear
+92,6B 27,Old Wisdom Made New,Footwear
+93,6C 27,Typhoon,Footwear
+94,6D 27,Dandy Hat,Headwear
+95,6E 27,Zephyr's Elegy,Top
+96,6F 27,Tree Leaf Serenade,Top
+97,70 27,Dappled Light Waltz,Top
+98,71 27,Zephyr's Sonata,Top
+99,72 27,North Wind Concerto,Top
+100,73 27,Spring Breeze Rhapsody,Top
+101,74 27,Sky Blue Paean,Top
+102,75 27,High Sun Paean,Top
+103,76 27,Sunflower,Top
+104,77 27,Hydrangea,Top
+105,78 27,Tulip,Top
+106,79 27,Sunshine One-piece,Top
+107,7A 27,Flower One-piece,Top
+108,7B 27,Youth's March,Bottom
+109,7C 27,Young Folks,Bottom
+110,7D 27,When You're in Love,Bottom
+111,7E 27,Love in a Heartbeat,Bottom
+112,7F 27,Let's Dance,Footwear
+113,80 27,Young American,Footwear
+114,81 27,Funky Shades,Accessory
+115,82 27,Love & Peace,Accessory
+116,83 27,Slogan Bandannas,Accessory
+117,84 27,Cocktail Queen,Top & Bottom
+118,85 27,Regal Presence,Top & Bottom
+119,86 27,Tweed Gentleman,Top & Bottom
+120,87 27,Lavender Lotus,Top & Bottom
+121,88 27,Classic Half-boots,Footwear
+122,89 27,Crimson Stilettos,Footwear
+123,8A 27,Silver Baron,Accessory
+124,8B 27,Liberty Duke,Accessory
+125,8C 27,Royal Splendor,Accessory
+126,8D 27,Revolution,Accessory
+127,8E 27,Sparkling Flight,Accessory
+128,8F 27,Darling Lock,Accessory
+129,90 27,Pitter Patter Plaid,Top
+130,91 27,Frilly Camisole,Top
+131,92 27,Aqua Puffy Blouse,Top
+132,93 27,Retro Dot One-piece,Top
+133,94 27,Easy Breezy Dress,Top
+134,95 27,Green With Envy,Top
+135,96 27,Lemon Sherbert,Top
+136,97 27,Mint Ice Cream,Top
+137,98 27,Spangle Sorbet,Top
+138,99 27,Iris Gelato,Top
+139,9A 27,Strawberry Chocolate,Top
+140,9B 27,Mint Choco-chip,Top
+141,9C 27,Angel Frill Skirt,Bottom
+142,9D 27,Citrus Shorts,Bottom
+143,9E 27,Sparkling Capris,Bottom
+144,9F 27,Ribbon Cargos,Bottom
+145,A0 27,Flaming Knee-highs,Accessory
+146,A1 27,Cloud Nine Scarf,Accessory
+147,A2 27,Lucky Rainbow Bracelets,Accessory
+148,A3 27,Rounded Specs,Accessory
+149,A4 27,Shining Star Dangles,Accessory
+150,A5 27,Princess Ring,Accessory
+151,A6 27,Happy Necklace,Accessory
+152,A7 27,Heart Pochette,Accessory
+153,A8 27,Polka Dot Bag,Accessory
+154,A9 27,Wadatsumi,Headwear
+155,AA 27,Fudo,Headwear
+156,AB 27,Dharma,Top
+157,AC 27,Suiten,Top
+158,AD 27,Haramitsu,Top
+159,AE 27,Amida,Top
+160,AF 27,Ashura,Top
+161,B0 27,Brahma,Top
+162,B1 27,Komokuten,Top
+163,B2 27,Togenkyo,Top
+164,B3 27,Inazuma,Bottom
+165,B4 27,Hannya,Bottom
+166,B5 27,Aun,Footwear
+167,B6 27,Gekirin,Footwear
+168,B7 27,Karma,Accessory
+169,B8 27,Naraka,Accessory
+170,B9 27,Plumeria Ring,Accessory
+171,BA 27,Gold Band,Accessory
+172,BB 27,Coral Necklace,Accessory
+173,BC 27,Turquoise Necklace,Accessory
+174,BD 27,Garden Bracelet,Accessory
+175,BE 27,Wheel Bracelet,Accessory
+176,BF 27,Gold Bangle,Accessory
+177,C0 27,Pureheart Pendant,Accessory
+178,C1 27,Skull Pendant,Accessory
+179,C2 27,Chandelier Dangles,Accessory
+180,C3 27,Diamond Studs,Accessory
+181,C4 27,Plumeria Studs,Accessory
+182,C5 27,Navel Piercing,Accessory
+183,C6 27,Heart Nails,Accessory
+184,C7 27,Blue Nails,Accessory
+185,C8 27,Silver Screen Sweetheart,Headwear
+186,C9 27,Silver Screen Starlet,Headwear
+187,CA 27,Plain Shirt,Top
+188,CB 27,Negative Polo,Top
+189,CC 27,Positive Polo,Top
+190,CD 27,Pink Stripe,Top
+191,CE 27,Black Stripe,Top
+192,CF 27,Lovely Camisole,Top
+193,D0 27,White Cache-coeur,Top
+194,D1 27,Chic Black Turtleneck,Top
+195,D2 27,Midday Kitten Knit,Top
+196,D3 27,Black Jeans,Bottom
+197,D4 27,Brown Jeans,Bottom
+198,D5 27,Skinny Jeans (Blue),Bottom
+199,D6 27,My Favorite One-piece,Top & Bottom
+200,D7 27,Angelic One-piece,Top & Bottom
+201,D8 27,Lovely One-piece,Top & Bottom
+202,D9 27,Simple Mules,Footwear
+203,DA 27,Blossom Mules,Footwear
+204,DB 27,Enamel Pumps,Footwear
+205,DC 27,Simple Necktie,Accessory
+206,DD 27,Waffle Necktie,Accessory
+207,DE 27,Seattle,Headwear
+208,DF 27,San Francisco,Headwear
+209,E0 27,Las Vegas,Headwear
+210,E1 27,Chicago,Headwear
+211,E2 27,New York,Headwear
+212,E3 27,Negotiator,Top
+213,E4 27,Hey Boy,Top
+214,E5 27,Hey Girl,Top
+215,E6 27,Hey Everybody,Top
+216,E7 27,Alive,Top
+217,E8 27,Sabotage,Top
+218,E9 27,3 MC's 1 DJ,Top
+219,EA 27,Pass the Mic,Top
+220,EB 27,Won't Stop,Bottom
+221,EC 27,Don't Stop,Bottom
+222,ED 27,Camouflage,Bottom
+223,EE 27,Darkness,Bottom
+224,EF 27,Denim Coveralls,Top & Bottom
+225,F0 27,Work Coveralls,Top & Bottom
+226,F1 27,Gold Die,Accessory
+227,F2 27,Wild Boar Pendant,Accessory
+228,F3 27,King Pendant,Accessory
+229,F4 27,Skull Deck,Accessory
+230,F5 27,Camo Deck,Accessory
+231,F6 27,Cat Deck,Accessory
+232,F7 27,TWEWY Promo Coat,Top
+233,F8 27,TWEWY Promo Tee,Top
+234,F9 27,TWEWY Promo Tote,Accessory
+235,FA 27,Pinky's Lipstick,Accessory
+236,FB 27,Lollipop's Parka,Top
+237,FC 27,Big Guy's Buckle,Accessory
+238,FD 27,Pi-Face's Cap,Headwear
+239,FE 27,Pi-Face's Coat,Top
+240,FF 27,Pi-Face's Jeans,Bottom
+241,00 28,Pi-Face's Bandanna,Accessory
+242,01 28,Iron Maiden's One-piece,Top & Bottom
+243,02 28,Shade's Headphones,Accessory
+244,03 28,Sis's Pendant,Accessory
+245,04 28,Wizard's Glasses,Accessory
+246,05 28,My Phones,Accessory
+247,06 28,Your Cap,Headwear
+248,07 28,Her Stuffed Animal,Accessory
+249,08 28,Angel Feather,Accessory
+250,09 28,Gakuran,Top & Bottom
+251,0A 28,Sailor Suit,Top & Bottom
+252,0B 28,Boys' Uniform with Blazer,Top & Bottom
+253,0C 28,Girls' Uniform with Blazer,Top & Bottom
+254,0D 28,Girls' Uniform with Sweater,Top & Bottom
+255,0E 28,Head Honcho,Top & Bottom
+256,0F 28,Yukata,Top & Bottom
+257,10 28,The Dead Slammurai,Top & Bottom
+258,11 28,The Black Slammurai,Top & Bottom
+259,12 28,Nose Glasses,Accessory
+260,13 28,Samurai Wig,Headwear
+261,14 28,Mr. Mew Suit,Top & Bottom
+262,15 28,New Year's Gift,Accessory
+263,16 28,Pirate Hat,Headwear
+264,17 28,Potted Plant,Accessory
+265,18 28,Mr. Claus,Top & Bottom
+266,19 28,Mrs. Claus,Top & Bottom
+267,1A 28,Black Book Bag,Accessory
+268,1B 28,Red Book Bag,Accessory
+269,1C 28,Biker Gloves,Accessory
+270,1D 28,Maid Costume,Top & Bottom
+271,1E 28,Supermask's Mask,Headwear
+272,1F 28,Ninja Garb,Top & Bottom
+273,20 28,Samurai Helm,Headwear
+274,21 28,Samurai Armor,Top & Bottom
+275,22 28,Fan of the Rising Sun,Top
+276,23 28,Samurai Sword,Accessory
+277,24 28,Solid Slammer,Accessory
+278,25 28,False Teeth,Accessory
+279,26 28,Lucky Mallet,Accessory
+280,27 28,Mr. Ducky,Accessory

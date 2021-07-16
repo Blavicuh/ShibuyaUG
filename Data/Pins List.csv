@@ -1,0 +1,324 @@
+Pin Number,Pin name,In game Value ,hex,Max level
+1,ice blow,000,00 00,7
+2,ice risers,001,01 00,10
+3,frozen cool,002,02 00,4
+4,blizzard cool,003,03 00,4
+5,earthshake,004,04 00,5
+6,sexy D,005,05 00,4
+7,Sexy +,006,06 00,4
+8,Sexy B,007,07 00,5
+9,straitjacket,008,08 00,5
+10,blown kiss,009,09 00,2
+11,D+B,010,0A 00,3
+12,Happy Beam,011,0B 00,6
+13,Natural Magnum,012,0C 00,5
+14,Wonder Magnum,013,0D 00,4
+15,Beauty Launcher,014,0E 00,5
+16,One Love Magnum,015,0F 00,6
+17,Hounder Magnum,016,10 00,5
+18,Bear Hug Magnum,017,11 00,5
+19,Sparkle Beam,018,12 00,4
+20,Lil' Terror Bazooka,019,13 00,3
+21,Angel Magnum,020,14 00,4
+22,Cutie Beam,021,15 00,5
+23,Lovely Beam,022,16 00,6
+24,Sexy Beam,023,17 00,7
+25,Superfine Beam,024,18 00,8
+26,Playmate Beam,025,19 00,3
+27,Purity Launcher,026,1A 00,3
+28,Innocence Beam,027,1B 00,5
+29,Pop Pendulum,028,1C 00,5
+30,Casual Pendulum,029,1D 00,3
+31,Love Me Tether,030,1E 00,5
+32,Pamper Me Tether,031,1F 00,5
+33,Sweet Talk Tether,032,20 00,5
+34,Natural Puppy,033,21 00,3
+35,Frantic,034,22 00,3
+36,Blink Step,035,23 00,3
+37,First Gear,036,24 00,5
+38,Top Gear,037,25 00,3
+39,Egg Bomb,038,26 00,4
+40,Meteor Magnet,039,27 00,6
+41,Meteor Hook,040,28 00,7
+42,Meteor Spike,041,29 00,8
+43,Strong Heart,042,2A 00,5
+44,Strong Spirit,043,2B 00,5
+45,Strong Body,044,2C 00,5
+46,Strong 'n Proud,045,2D 00,5
+47,Poison Scorpion,046,2E 00,2
+48,Poison Skull,047,2F 00,2
+49,Poison Bones,048,30 00,3
+50,Poison Chains,049,31 00,3
+51,Rapier Glance,050,32 00,3
+52,Love Change,051,33 00,1
+53,Guardian Angel,052,34 00,5
+54,Archangel,053,35 00,3
+55,Energy Factor,054,36 00,5
+56,Speed Factor,055,37 00,1
+57,Supply Factor,056,38 00,3
+58,Chaos,057,39 00,3
+59,Pavo Real,058,3A 00,3
+60,Lightning Moon,059,3B 00,5
+61,lightning Storm,060,3C 00,5
+62,Burning Cherry,061,3D 00,5
+63,Burning Melon,062,3E 00,5
+64,Burning Berry,063,3F 00,5
+65,Aqua Monster,064,40 00,4
+66,Aqua Ghost,065,41 00,5
+67,Aqua Demon,066,42 00,5
+68,Cornered Rat,067,43 00,5
+69,Bast Warning,068,44 00,5
+70,Candle Service,069,45 00,3
+71,Shock Warning,070,46 00,5
+72,Kinetic Warning,071,47 00,5
+73,Impact Warning,072,48 00,5
+74,Storm Warning,073,49 00,5
+75,Electric Warning,074,4A 00,1
+76,Teleport Warning,075,4B 00,3
+77,Shout,076,4C 00,5
+78,Psych Support,077,4D 00,3
+79,Stopper Spark,078,4E 00,1
+80,Mus Rattus,079,4F 00,3
+81,Masamune,080,50 00,7
+82,Onikiri,081,51 00,7
+83,Nenekiri,082,52 00,7
+84,Kanesada,083,53 00,7
+85,Enju,084,54 00,7
+86,Yoshimitsu,085,55 00,7
+87,Ichimonji,086,56 00,5
+88,Nikkari,087,57 00,5
+89,Mikazuki,088,58 00,3
+90,Shiro,089,59 00,20
+91,Unjo,090,5A 00,5
+92,Izanagi,091,5B 00,5
+93,Murasame,092,5C 00,4
+94,Rakuyo,093,5D 00,4
+95,Kusanagi,094,5E 00,4
+96,Ohabari,095,5F 00,7
+97,Zantetsu,096,60 00,10
+98,Mitama,097,61 00,6
+99,Izanami,098,62 00,1
+100,Onmyo,099,63 00,5
+101,Konohana,100,64 00,3
+102,Konohana Sakuya,101,65 00,4
+103,Jupiter of the Monkey,102,66 00,3
+104,Long Live the Rock,103,67 00,4
+105,Long Live the Ice,104,68 00,5
+106,Long Live the Floe,105,69 00,5
+107,Eyes Full of Hope,106,6A 00,5
+108,Eyes full of Light,107,6B 00,5
+109,Hot Gaze,108,6C 00,4
+110,Sizzling Gaze,109,6D 00,4
+111,Cold Stare,110,6E 00,10
+112,Icy Stare,111,6F 00,10
+113,Wassup Thunder!,112,70 00,5
+114,Wassup Lightning!,113,71 00,5
+115,Wassup Voltage,114,72 00,6
+116,Indestructo Man,115,73 00,1
+117,Hip Snake,116,74 00,3
+118,Octo Squeeze,117,75 00,6
+119,Snail Squeeze,118,76 00,5
+120,Vacu Squeeze,119,77 00,5
+121,Gimme Dat Sheep,120,78 00,2
+122,Gimme Dat Elephant,121,79 00,2
+123,Gimme Dat Hippo,122,7A 00,2
+124,Crackle Pop Barrier,123,7B 00,5
+125,Splish Splash Barrier,124,7C 00,5
+126,Creepy Weepy Barrier,125,7D 00,3
+127,Whirlygig Juggle,126,7E 00,3
+128,Healing Bunny,127,7F 00,2
+129,Healing Flamingo,128,80 00,4
+130,Healing Whale,129,81 00,3
+131,Cros Leisure,130,82 00,5
+132,Monkey Leisure,131,83 00,6
+133,Bear Leisure,132,84 00,4
+134,Squirrel Leisure,133,85 00,5
+135,Sparkle Charge,134,86 00,3
+136,Handsfree Healing,135,87 00,1
+137,Sheep Heavenly,136,88 00,1
+138,Distortion,137,89 00,4
+139,Velocity Attack,138,8A 00,5
+140,Velocity Tackle,139,8B 00,10
+141,Demon's Hatred,140,8C 00,1
+142,Go 2 Hell,141,8D 00,5
+143,Go 2 Heaven,142,8E 00,4
+144,Lightning Anger,143,8F 00,10
+145,Lightning Rage,144,90 00,5
+146,LIVE!,145,91 00,5
+147,Peace Full,146,92 00,5
+148,Thanx,147,93 00,3
+149,D.I.Y.,148,94 00,1
+150,Tigre Punks,149,95 00,3
+151,"One Stone, Many Birds",150,96 00,6
+152,"One Stroke, Vast Wealth",151,97 00,10
+153,"One Grain, Infinite Promise",152,98 00,7
+154,"Self Found, Others Lost",153,99 00,4
+155,"Fiery Spirit, Spirited Fire",154,9A 00,5
+156,"Flames Afar, Foes Aflame",155,9B 00,5
+157,"Final Pyre, All Expired",156,9C 00,5
+158,Blue Blood Burns Blue,157,9D 00,3
+159,"Live Slow, Die Fast",158,9E 00,6
+160,"Local Fire, Distant Sea",159,9F 00,5
+161,"June Hearth, January Fan",160,A0 00,4
+162,"Swift Storm, Swift End",161,A1 00,5
+163,"Black Sky, White Bolt",162,A2 00,5
+164,"Follow Suit, Fall in Turn",163,A3 00,5
+165,Dragon Couture,164,A4 00,3
+166,Lolita Bat,165,A5 00,5
+167,Skull Rabbit,166,A6 00,5
+168,Kaleidoscope,167,A7 00,10
+169,Lolita Emblem,168,A8 00,3
+170,Lolita Chopper,169,A9 00,4
+171,Link Spider,170,AA 00,5
+172,Web Spider,171,AB 00,5
+173,Network Spider,172,AC 00,5
+174,Lolita Mic,173,AD 00,1
+175,Spider's Silk,174,AE 00,15
+176,Leopard,175,AF 00,4
+177,Lolita Skull,176,B0 00,4
+178,Black Rose,177,B1 00,3
+179,Lapin Angelique,178,B2 00,3
+180,Thunder Pawn,179,B3 00,5
+181,Lightning Pawn,180,B4 00,4
+182,Aqua Pawn,181,B5 00,3
+183,Swing Bishop,182,B6 00,7
+184,Pegaso Bishop,183,B7 00,5
+185,King Arthur,184,B8 00,3
+186,Excalibur,185,B9 00,5
+187,Thunder Rook,186,BA 00,3
+188,Lightning rook,187,BB 00,4
+189,Jack's Knight,188,BC 00,4
+190,King's Knight,189,BD 00,4
+191,Queen's Knight,190,BE 00,4
+192,Her Royal Highness,191,BF 00,3
+193,Pegaso,192,C0 00,3
+194,Lazy Bomber,193,C1 00,7
+195,Flower of Flame,194,C2 00,3
+196,Flower of Fire,195,C3 00,4
+197,Kewl Line,196,C4 00,5
+198,Dope Line,197,C5 00,5
+199,Wild Line,198,C6 00,4
+200,Fly Line,199,C7 00,5
+201,Fresh Line,200,C8 00,5
+202,Microcosmic Pull,201,C9 00,4
+203,Cosmic Pull,202,CA 00,3
+204,Macrocosmic Pull,203,CB 00,2
+205,Diss,204,CC 00,1
+206,Wild Boar,205,CD 00,3
+207,Big Bang,206,CE 00,10
+208,Big Crunch,207,CF 00,10
+209,Swift as the Wind,208,D0 00,10
+210,Hushed as the Wood,209,D1 00,10
+211,Fierce as the Flame,210,D2 00,10
+212,Stalwart as the Mount,211,D3 00,10
+213,Black Mars,212,D4 00,10
+214,Black Jupiter,213,D5 00,10
+215,Black Uranus,214,D6 00,10
+216,Black Venus,215,D7 00,10
+217,Black Saturn,216,D8 00,10
+218,Black Mercury,217,D9 00,10
+219,Righty Cat,218,DA 00,3
+220,Brainy Cat,219,DB 00,3
+221,Lefty Cat,220,DC 00,3
+222,One Jump from Eden,221,DD 00,5
+223,One Skip from Eden,222,DE 00,5
+224,One Hop from Eden,223,DF 00,5
+225,One Step from Eden,224,E0 00,5
+226,Eden's Door,225,E1 00,5
+227,Visionary Blend,226,E2 00,1
+228,Red Skull,227,E3 00,1
+229,Gatito,228,E4 00,1
+230,Tin Pin Fire,229,E5 00,4
+231,Tin Pin Custom,230,E6 00,1
+232,Tin Pin Wind,231,E7 00,6
+233,Tin Pin Blade,232,E8 00,6
+234,Tin Pin Wheel,233,E9 00,3
+235,Tin Pin Dash,234,EA 00,4
+236,Tin Pin Thrift,235,EB 00,3
+237,Tin Pin Hellfire,236,EC 00,7
+238,Tin Pin Sunscorch,237,ED 00,3
+239,Tin Pin Rocker,238,EE 00,2
+240,Tin Pin Artist,239,EF 00,4
+241,Tin Pin Devil,240,F0 00,8
+242,Tin Pin Ifrit,241,F1 00,3
+243,Tin Pin Shiva,242,F2 00,4
+244,Tin Pin Golem,243,F3 00,5
+245,Tin Pin Bahamut,244,F4 00,6
+246,1 Yen,245,F5 00,2
+247,5 Yen,246,F6 00,2
+248,10 yen,247,F7 00,2
+249,50 Yen,248,F8 00,2
+250,100 Yen,249,F9 00,2
+251,500 Yen,250,FA 00,2
+252,"1,000 Yen",251,FB 00,2
+253,"5,000 Yen",252,FC 00,2
+254,"10,000 Yen",253,FD 00,1
+255,"100,000 Yen",254,FE 00,1
+256,Scarletite,255,FF 00,1
+257,Rare Metal,256,00 01,1
+258,Tektite,257,01 01,1
+259,Adamantite,258,02 01,1
+260,Orichalcum,259,03 01,1
+261,Shadow Matter,260,04 01,1
+262,Dark Matter,261,05 01,1
+263,Rhyme,262,06 01,1
+264,Lucky Star,263,07 01,3
+265,Lady Luck,264,08 01,3
+266,Lucky Panda,265,09 01,3
+267,Pyrokinesis,266,0A 01,3
+268,Shockwave,267,0B 01,3
+269,Cure Drink,268,0C 01,3
+270,Force Rounds,269,0D 01,3
+271,Psychokinesis,270,0E 01,2
+272,Thunderbolt,271,0F 01,2
+273,The Eyes Have It,272,10 01,3
+274,I Live for Food,273,11 01,3
+275,"Walk on, Walk off",274,12 01,3
+276,Me Time is Free Time,275,13 01,3
+277,Fuji Yama,276,14 01,5
+278,Daruma,277,15 01,5
+279,Sushi,278,16 01,5
+280,Shinobi,279,17 01,5
+281,Tigris,280,18 01,10
+282,Corehog,281,19 01,5
+283,Jelly,282,1A 01,7
+284,Shark,283,1B 01,3
+285,Leo,284,1C 01,3
+286,Ovis,285,1D 01,9
+287,Cornix,286,1E 01,4
+288,Popguin,287,1F 01,3
+289,Pteropus,288,20 01,6
+290,Mink,289,21 01,4
+291,Boomer,290,22 01,5
+292,Sprog,291,23 01,4
+293,Fox,292,24 01,3
+294,Bat,293,25 01,5
+295,Rhino,294,26 01,4
+296,Shrew,295,27 01,6
+297,Woolly,296,28 01,4
+298,Raven,297,29 01,9
+299,Drake,298,2A 01,15
+300,Anguis,299,2B 01,20
+301,Pig,300,2C 01,1
+302,Carcin,301,2D 01,3
+303,Grizzly,302,2E 01,3
+304,Wolf,303,2F 01,5
+305,Frog,304,30 01,4
+306,Green Dragon,305,31 01,8
+307,Vinyl Record,306,32 01,5
+308,Downhill Buffalo,307,33 01,6
+309,Hermit Crab Feather,308,34 01,10
+310,Great Physical Power,309,35 01,8
+311,Dove Actually,310,36 01,7
+312,Zipzap Zipper,311,37 01,7
+313,Unfortunate Teller,312,38 01,8
+314,Brain Beam,313,39 01,5
+315,WITCHCRAFT,314,3A 01,8
+316,METTAZASHI,315,3B 01,8
+317,KATON NO JUTSU,316,3C 01,8
+318,Rakshasa the Tyrant,317,3D 01,4
+319,PRW-02SR,318,3E 01,3
+320,Papillon Rouge,319,3F 01,8
+321,Rubellite,320,40 01,1
+322,Morganite,321,41 01,1
+323,Taffeite,322,42 01,1

@@ -1,0 +1,62 @@
+Number,Hex value,Name_EN
+484,B2 75,(B) Partnered Combat
+485,B3 75,(B) Partner Pin
+486,B4 75,(B) Controlling Combat
+487,B5 75,(B) Cross Combos
+488,B6 75,(B) So I Beat the Enemy...
+489,B7 75,(B) CONTROLS / Drag
+490,B8 75,(B) CONTROLS / Tap
+491,B9 75,(B) CONTROLS / Slash
+492,BA 75,(B) CONTROLS / Press
+493,BB 75,(B) Use Obstacles
+494,BC 75,(B) Wearing Pins
+495,BD 75,(B) Sub-slots
+496,BE 75,(B) Boot/Reboot
+497,BF 75,(B) Negative Statuses
+498,C0 75,(B) Pin Growth/Evolution
+499,C1 75,(B) Psych Affinities
+500,C2 75,(B) Escaping from Battle
+501,C3 75,(B) Scanning
+502,C4 75,(B) Enemy Encounters
+503,C5 75,(B) Chained Battles
+504,C6 75,(B) Red Noise Symbols
+505,C7 75,(B) Blue Noise Symbols
+506,C8 75,(B) Green Noise Symbols
+507,C9 75,(B) Yellow Noise Symbols
+508,CA 75,(B) Black Noise Symbols
+509,0C 76,(B) Purple Noise Symbols
+510,CB 75,(B) Memes
+511,CC 75,(B) Talk to Your Partner
+512,CD 75,(B) Mail Icon
+513,CE 75,(B) Be a Trendsetter
+514,CF 75,(B) Shutdown
+515,D0 75,(B) Shop Clerks
+516,D1 75,(B) Item Abilities
+517,D2 75,(B) Shop Quests
+518,D3 75,(B) Tin Pin Slammer
+519,D4 75,(B) Tin Pin Lineup
+520,D5 75,(B) Charge Slam
+521,D6 75,(B) Spin Slam
+522,D7 75,(B) Tin Pin Whammy 1
+523,D8 75,(B) Tin Pin Whammy 2
+524,D9 75,(B) Tin Pin Whammy 3
+525,DA 75,(B) Tin Pin Whammy 4
+526,DB 75,(B) Secrets of Evolution
+527,DC 75,(B) Tin Pin PP
+528,DD 75,(B) Battle PP
+529,DE 75,(B) Shutdown PP
+530,DF 75,"(B) Black Cat Atlas, Vol. 1"
+531,E0 75,"(B) Black Cat Atlas, Vol. 2"
+532,E1 75,"(B) Black Cat Atlas, Vol. 3"
+533,E2 75,"(B) Black Cat Atlas, Vol. 4"
+534,E3 75,"(B) Black Cat Atlas, Vol. 5"
+535,E4 75,"(B) Black Cat Atlas, Vol. 6"
+536,E5 75,"(B) Black Cat Atlas, Vol. 7"
+537,E6 75,"(B) Black Cat Atlas, Vol. 8"
+538,E7 75,"(B) Black Cat Atlas, Vol. 9"
+539,E8 75,"(B) Black Cat Atlas, Vol. 10"
+540,F0 75,(B) Curse Mission
+541,F1 75,(B) Restore Mission
+542,F2 75,(B) Split Mission
+543,F3 75,(B) Sync Rave Mission
+544,F4 75,(B) Ravenball Mission
