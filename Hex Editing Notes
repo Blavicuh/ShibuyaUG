@@ -125,4 +125,13 @@ Moved to new Notes file,
 # address for all wallets starts at 0x00004395 and ends 0x000043A2
 # address for first 69 Cd's starts at 0x000043A5 nd ends at 0x000044FB
 # address for all stickers except co-op and mission noise1-3 start at 0x000044FE and end at 0x000045CD
-# address for all books except new books starts at 0x000045D0 
+
+
+# Update 7/16/2021
+# address for all books except new books starts at 0x000045D0 and ends at 0x000046E0
+# address for stickers added in Final Remix starts at 0x000046E3 and ends at 0x00004703
+# address for almost all books added in Final Remix start at 0x00004706 and ends at 0x0000471C
+# address for CD's added in Final Remix start at 0x0000471F and end at 0x0000478F
+# address for book 509 (B) Purple Noise Symbols starts at 0x00004792 and ends at 0x00004794
+
+# IMPORTANT NOTE! ALL ADDRESSES ARE MENTIONED ASSUMING THEIR FORMAT AS MENTIONED ABOVE! SO WHEN I REFER TO PIN MASTERY STARTING AT 0x00001037, THAT MEANS AT 0x00001037 THE HEX GOES 06 00 04 00 01 00 00 00 00 63, WHEN i HAVE 99 (63) SEXY+ (06 00) PINS MASTERED (MAX LEVEL IS 4= MASTERED= 04), ITEMS LIKE FOOD SHOW 01 4A 4E 63 00 WHEN I HAVE 99 (63) GOURMET RICE BALL (4A 4E) AT ADDRESS 0x00004340 TO 0x00004344. 
