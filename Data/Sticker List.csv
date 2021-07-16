@@ -1,0 +1,50 @@
+Number,Hex value,Name_EN
+435,88 75,(S) Main Menu
+436,89 75,(S) Extra Slot
+437,8A 75,(S) Safe Landing
+438,8B 75,(S) Technical EXP
+439,8C 75,(S) Shutdown
+440,8D 75,(S) Brand Awareness
+441,8E 75,(S) Dash
+442,8F 75,(S) Game Cleared
+443,90 75,(S) Shiki
+444,91 75,(S) Fusion Boost
+445,92 75,(S) Quick Boot
+446,93 75,(S) ATK Boost
+447,94 75,(S) DEF Boost
+448,95 75,(S) Combo Plus
+449,96 75,(S) Gauge Extender
+450,97 75,(S) Hyperdrive
+451,E9 75,(S) Shiki: Co-op
+452,98 75,(S) Joshua
+453,99 75,(S) Fusion Boost
+454,9A 75,(S) Quick Boot
+455,9B 75,(S) ATK Boost
+456,9C 75,(S) DEF Boost
+457,9D 75,(S) Heavy Hitter
+458,9E 75,(S) Gauge Extender
+459,9F 75,(S) Levitate
+460,EA 75,(S) Joshua: Co-op
+461,EB 75,(S) Levitate: Co-op
+462,A0 75,(S) Beat
+463,A1 75,(S) Fusion Boost
+464,A2 75,(S) Quick Boot
+465,A3 75,(S) ATK Boost
+466,A4 75,(S) DEF Boost
+467,A5 75,(S) Power Combos
+468,A6 75,(S) Gauge Extender
+469,A7 75,(S) Hyperdrive
+470,EC 75,(S) Beat: Co-op
+471,A8 75,(S) Chain 4
+472,A9 75,(S) Chain 16
+473,AA 75,(S) Retry Battles
+474,AB 75,(S) Hard
+475,AC 75,(S) Hollow Leg
+476,AD 75,(S) Ultimate
+477,AE 75,(S) Easy
+478,AF 75,(S) Noise Report
+479,B0 75,(S) Tin Pin Menu
+480,B1 75,(S) Co-op
+481,ED 75,(S) Mission Noise 1
+482,EE 75,(S) Mission Noise 2
+483,EF 75,(S) Mission Noise 3
