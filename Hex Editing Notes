@@ -118,3 +118,11 @@ Moved to new Notes file,
 
 # Addresses for items starts at 0x00003CF7 and ends at 0x00004794, items are written in  01/00 XX XX YY where XX XX is the hex for the item, and YY is quantity. 00/01 could be a signifier if the ability is unlocked however, I believe there is a check elsewhere I haven;t found yet because sometimes the ability won't unlock in game if you do not have the necessary FSG maxed
 
+
+# address for all threads starts at 0x00003CF7 and ends at 0x0000426C
+# address for all food starts at 0x0000426F and ends at 0x00004343
+# address for all quest items starts at 0x00004345 and ends 0x00004393
+# address for all wallets starts at 0x00004395 and ends 0x000043A2
+# address for first 69 Cd's starts at 0x000043A5 nd ends at 0x000044FB
+# address for all stickers except co-op and mission noise1-3 start at 0x000044FE and end at 0x000045CD
+# address for all books except new books starts at 0x000045D0 
