@@ -137,6 +137,14 @@ Moved to new Notes file,
 # IMPORTANT NOTE! ALL ADDRESSES ARE MENTIONED ASSUMING THEIR FORMAT AS MENTIONED ABOVE! SO WHEN I REFER TO PIN MASTERY STARTING AT 0x00001037, THAT MEANS AT 0x00001037 THE HEX GOES 06 00 04 00 01 00 00 00 00 63, WHEN i HAVE 99 (63) SEXY+ (06 00) PINS MASTERED (MAX LEVEL IS 4= MASTERED= 04), ITEMS LIKE FOOD SHOW 01 4A 4E 63 00 WHEN I HAVE 99 (63) GOURMET RICE BALL (4A 4E) AT ADDRESS 0x00004340 TO 0x00004344. 
 
 # Update 7/20/21 found addresses for equipped food items and threads, but didn't save them. Will update with addresses next time I get to it. 
+# 1. Neku's food is at 0x069-0x06A so, shiki has it at 0x083-0x084, beat has it at 0x0B7 to 0x0B8, joshua's food is at 0x09D-0x09E
+# 2. Threads are saved in slots 1-4 with XX XX being slot 1, YY YY being slot 2, ZZ ZZ slot 3, and -- -- slot 4, full string should look like XX XX YY YY ZZ ZZ -- --
+# 3. for Joshua I have brown baby tee in slot 1(16 27), slot 2 love in a heartbeat(7E 27), slot 3 one man no equal (6A 27), slot 4 angel feather (08 28). at address 0x0A3 is the string 16 27 7E 27 6A 27 08 28
+# 3A. Address for Neku's threads is 0x06F- 0x076
+# 3B. Address for Shiki's threads is 0x089-0x090
+# 3C. Address for Joshua' threads is 0x0A3- 0x0AA
+# 3D. Address for Beat's threads is 0x0BD- 0x0C4
+
 
 
 
