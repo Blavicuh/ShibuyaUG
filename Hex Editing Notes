@@ -135,3 +135,25 @@ Moved to new Notes file,
 # address for book 509 (B) Purple Noise Symbols starts at 0x00004792 and ends at 0x00004794
 
 # IMPORTANT NOTE! ALL ADDRESSES ARE MENTIONED ASSUMING THEIR FORMAT AS MENTIONED ABOVE! SO WHEN I REFER TO PIN MASTERY STARTING AT 0x00001037, THAT MEANS AT 0x00001037 THE HEX GOES 06 00 04 00 01 00 00 00 00 63, WHEN i HAVE 99 (63) SEXY+ (06 00) PINS MASTERED (MAX LEVEL IS 4= MASTERED= 04), ITEMS LIKE FOOD SHOW 01 4A 4E 63 00 WHEN I HAVE 99 (63) GOURMET RICE BALL (4A 4E) AT ADDRESS 0x00004340 TO 0x00004344. 
+
+# Update 7/20/21 found addresses for equipped food items and threads, but didn't save them. Will update with addresses next time I get to it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
