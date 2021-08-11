@@ -5,9 +5,9 @@
 2. compile all writeable addresses within pins bank
 3. do the same for threads
 4. Find if multiple equipped pin decks show up in hex, write down addresses
-5. find location of equipped threads
-6. find location of equipped food. 
-7. Create Gui
+5. Create Gui
+6. TBD
+7. TBD
 8. TBD
 
 
