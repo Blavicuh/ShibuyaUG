@@ -7,8 +7,7 @@
 4. Find if multiple equipped pin decks show up in hex, write down addresses
 5. Create Gui
 6. TBD
-7. TBD
-8. TBD
+
 
 
 # Future Plans:
